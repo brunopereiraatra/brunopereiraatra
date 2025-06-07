@@ -11,9 +11,7 @@
 
 ---
 
-### <img src="./assets/ferramentas.png" alt="Ferramentas" height="28"/> Minha Caixa de Ferramentas
-
-### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Cloud.gif" alt="Cloud" height="28"/> Minha Caixa de Ferramentas
+### <img src="./assets/3.gif" alt="3" height="39"/> Minha Caixa de Ferramentas
 
 <div align="center">
   
@@ -36,16 +34,22 @@
 </div>
 
 ---
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30"/> Meus Principais Projetos em Destaque
 
-### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/ferramentas.png" alt="Ferramentas" height="28"/> Minha Caixa de Ferramentas
-
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| 📂 **[Framework de Reprocessamento Resiliente](URL_PARA_O_REPO_DO_FRAMEWORK)** | Um framework para reprocessamento robusto e monitorável de grandes volumes de dados no BigQuery. | `BigQuery`, `SQL`, `Python` |
-| 📈 **[Nome de Outro Projeto Seu](URL_DO_PROJETO)** | Breve descrição do seu outro projeto. | `Tecnologia A`, `Tecnologia B` |
-
----
-
+<table>
+  <tr>
+    <td width="50%">
+      <a href="URL_PARA_O_REPO_DO_FRAMEWORK" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=brunopereiraatra&repo=framework-reprocessamento-resiliente&theme=dracula&show_owner=true" alt="Framework de Reprocessamento Resiliente">
+      </a>
+    </td>
+    <td width="50%">
+      <a href="URL_PARA_OUTRO_PROJETO" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=brunopereiraatra&repo=NOME_DE_OUTRO_REPO&theme=dracula&show_owner=true" alt="Nome do Outro Projeto">
+      </a>
+    </td>
+  </tr>
+</table>
 ### <img src="https://i.imgur.com/b9IWIh3.png" alt="Contato" height="30"/> Como me Encontrar
 
 <p align="center">
