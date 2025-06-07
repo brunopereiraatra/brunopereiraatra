@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="URL_DA_SUA_IMAGEM_DE_BANNER_AQUI" alt="Banner do Perfil"/>
+  <img src="https://www.atrainformatica.com.br/wp-content/uploads/2019/12/cropped-Logo_350x70_2.png" alt="Banner do Perfil"/>
 
   <br/>
 
@@ -11,24 +11,33 @@
 
 ---
 
+### <img src="./assets/ferramentas.png" alt="Ferramentas" height="28"/> Minha Caixa de Ferramentas
+
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Cloud.gif" alt="Cloud" height="28"/> Minha Caixa de Ferramentas
 
 <div align="center">
+  
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white" height="25" alt="GCP"/>
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=plastic&logo=google-bigquery&logoColor=white" height="25" alt="BigQuery"/>
   <img src="https://img.shields.io/badge/Cloud_Functions-4A5965?style=plastic&logo=google-cloud&logoColor=white" height="25" alt="Cloud Functions"/>
   <img src="https://img.shields.io/badge/Dataform-F8A433?style=plastic&logo=google-cloud&logoColor=white" height="25" alt="Dataform"/>
   <img src="https://img.shields.io/badge/Looker-4285F4?style=plastic&logo=looker&logoColor=white" height="25" alt="Looker"/>
   <br/>
+  
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height="25" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=plastic&logo=postgresql&logoColor=white" height="25" alt="SQL"/>
   <br/>
+  
   <img src="https://img.shields.io/badge/dbt-FF694B?style=plastic&logo=dbt&logoColor=white" height="25" alt="dbt"/>
-  <img src="
+  <img src="https://img.shields.io/badge/Informatica-FF4D00?style=plastic&logo=informatica&logoColor=white" height="25" alt="Informatica"/>
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" height="25" alt="Git"/>
+</div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30"/> Meus Principais Projetos em Destaque
+### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/ferramentas.png" alt="Ferramentas" height="28"/> Minha Caixa de Ferramentas
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
